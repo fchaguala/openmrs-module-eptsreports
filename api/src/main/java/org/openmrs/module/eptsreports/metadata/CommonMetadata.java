@@ -20,7 +20,8 @@ import org.springframework.stereotype.Component;
 
 @Component("commonMetadata")
 public class CommonMetadata extends Metadata {
-
+  // Marcos Pina Chaguala comentador da Abola TV 17/05/2019
+  // Marcos Pina
   // CONCEPTS
   public Concept getYesConcept() {
     String uuid =
